@@ -8,3 +8,11 @@ Description.... Click the project titles to see reports, coding scirpts, and sum
 | <a> Environmental   </a>  | <a href="Major_Projects/Corridors_Final.pdf">Corridors</a>| <a>Greenways</a>     |
 | <a>...     </a>          | <a href="Major_Projects/Windfarm_Poster.pdf">Windfarm </a> | <a> Best locations for windfarms in South Texas</a> |
 </p>
+<table align="center">
+    <tr>
+        <th> Category </th> <th> Title </th> <th> Description</th>
+    </tr>
+    <tr>
+        <td>GIS</td>    <td><a href="Major_Projects/Africa_Report.pdf">Africa...></a></td>  <td> Africa....</td>
+    </tr>
+</table>
