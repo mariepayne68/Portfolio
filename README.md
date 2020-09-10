@@ -1,4 +1,4 @@
-<div background-color:#D9FFB3>
+<div>
 <p align="center">
  <a href="#">About Me </a> | 
  <a href ="#">My Work Experience</a> | 
