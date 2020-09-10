@@ -1,3 +1,4 @@
+<div background-color:#D9FFB3>
 <p align="center">
  <a href="#">About Me </a> | 
  <a href ="#">My Work Experience</a> | 
@@ -11,3 +12,4 @@
 <h2> Environmental Sciences </h2>
 <h2> GIS Analyst </h2>
 <h3 align="center"> Major Skills <h3>
+</div>
