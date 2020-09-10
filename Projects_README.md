@@ -2,9 +2,9 @@
 Description.... Click the project titles to see reports, coding scirpts, and summary posters. Files may be large, please allow a few moments for files to actualize.
 
 <p align="center">
-| Category          | Title         | Description   |
+| <a>Category</a>          | <a>Title</a>         | <a>Description</a>   |
 | ---               | ---           | ---           |
-| GIS               | <a href="Major_Projects/Africa_Report.pdf">Africa...</a> |
-| Environmental     | <a href="Major_Projects/Corridors_Final.pdf">Corridors</a>| Greenways     |
-| ...               | <a href="Major_Projects/Windfarm_Poster.pdf">Windfarm </a> | Best locations for windfarms in South Texas |
+| <a> GIS   </a>            | <a href="Major_Projects/Africa_Report.pdf">Africa...</a> |
+| <a> Environmental   </a>  | <a href="Major_Projects/Corridors_Final.pdf">Corridors</a>| <a>Greenways</a>     |
+| <a>...     </a>          | <a href="Major_Projects/Windfarm_Poster.pdf">Windfarm </a> | <a> Best locations for windfarms in South Texas</a> |
 </p>
