@@ -6,8 +6,8 @@
  <a href="#">Contact Me</a>|
 </p>
 <h1 align="center">Marie C. Payne</h1>
-    <img align="center" src="ProfileHeadshot.png" width="250" height="250">
+<p align="center"><img src="ProfileHeadshot.png" width="250" height="250"> </p>
 
 <h2> Environmental Sciences </h2>
 <h2> GIS Analyst </h2>
-<h3 align="center'> Major Skills <h3>
+<h3 align="center"> Major Skills <h3>
