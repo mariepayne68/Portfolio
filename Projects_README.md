@@ -1,5 +1,5 @@
 # Projects
-Description.... Click the project titles to see reports, coding scirpts, and summary posters.
+Description.... Click the project titles to see reports, coding scirpts, and summary posters. Files may be large, please allow a few moments for files to actualize.
 
 | Category          | Title         | Description   |
 | ---               | ---           | ---           |
